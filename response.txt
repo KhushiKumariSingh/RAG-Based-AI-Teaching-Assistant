@@ -1,0 +1,7 @@
+Hi there! I see you're watching our Sigma web development course, but you have a question about HTML entities and code tags. The topic of entities and code tags is actually covered in Video 13.
+
+Specifically, it starts at around 97 seconds into the video, where the instructor explains what HTML entities are and how they can be used to represent special characters in HTML. They also discuss the importance of using entities for certain types of content, like copyright symbols.
+
+Later on, at around 133 seconds, the instructor dives deeper into the world of code tags and their significance for coders. By this point, you should have a good understanding of what entities are and how they're used in HTML.
+
+If you want to see the full lesson on HTML entities and code tags, I recommend checking out Video 13. Just head over to our course platform and click on the video title. The video should be available for you to watch from there!
